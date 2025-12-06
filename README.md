@@ -13,6 +13,9 @@ An intelligent document chatbot powered by RAG (Retrieval-Augmented Generation) 
 
 ## 🚀 Getting Started
 
+<img width="1875" height="950" alt="image" src="https://github.com/user-attachments/assets/5c6b44c5-d84f-44e2-8e7d-68f7bd61c66e" />
+
+
 ### Prerequisites
 
 - Python 3.8 or higher
