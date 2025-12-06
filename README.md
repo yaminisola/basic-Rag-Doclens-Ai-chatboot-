@@ -141,8 +141,3 @@ Maximum file size: 200MB per file
 - [ ] User authentication
 - [ ] Cloud deployment ready
 
----
-
-**Made with ❤️ by Your Name**
-
-*Last Updated: December 2024*
